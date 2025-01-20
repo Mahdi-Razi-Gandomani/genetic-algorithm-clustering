@@ -19,20 +19,6 @@ This project demonstrates the use of a Genetic Algorithm (GA) for clustering the
 - **Visualization**:
   - Clustering results are visualized using scatter plots.
 
----
-
-## Requirements
-
-To run this code, you need the following Python libraries:
-
-- `numpy`
-- `scikit-learn`
-- `matplotlib`
-
-You can install the required libraries using:
-
-```bash
-pip install numpy scikit-learn matplotlib
 
 ---
 
