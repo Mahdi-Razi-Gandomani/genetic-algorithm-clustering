@@ -18,8 +18,6 @@ This project demonstrates the use of a Genetic Algorithm (GA) for clustering the
 
 - **Visualization**:
   - Clustering results are visualized using scatter plots.
-
-
 ---
 
 ## Example Output
