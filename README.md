@@ -63,7 +63,14 @@ The algorithm runs for a fixed number of generations (default: `200`), evolving 
 
 After the GA converges, both **GA-based clustering** and **K-Means** results are evaluated using the Silhouette Score and plotted for visual comparison.
 
-<img src="ga.png" width="300"/> <img src="kmeans.png" width="300"/>
+<p align="center">
+  <img src="ga.png" width="450" style="margin-right:20px;"/>
+  <img src="kmeans.png" width="450"/>
+</p>
+<p align="center">
+  Genetic Algorithm &nbsp;&nbsp;&nbsp;&nbsp; K-means
+</p>
+
 
 
 ---
