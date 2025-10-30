@@ -81,6 +81,5 @@ You can tweak several parameters in the code:
 | `population_size` | Size of the GA population | `150` |
 | `mutation_rate` | Probability of mutation | `0.5` |
 | `radius` | Range for mutation neighbor search | `5` |
-| `n_clusters` | Number of clusters | `3` |
 
 ---
